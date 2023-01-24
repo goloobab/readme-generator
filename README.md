@@ -53,9 +53,8 @@ Acceptance Criteria:
 * Using of the template literals
 
 
-## Screen Capture
-
-
+## Screen Shot
+![Screenshot 2023-01-24 221523](https://user-images.githubusercontent.com/26630637/214433484-3892a01b-da56-4593-bb04-1ac6bee61d1e.png)
 
 ## Links
 Project Repository: https://github.com/goloobab/readme-generator
