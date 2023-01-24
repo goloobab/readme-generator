@@ -1,4 +1,4 @@
-# Professional README Generator
+# README Generator
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
@@ -57,7 +57,9 @@ Acceptance Criteria:
 
 
 ## Links
-Project Repository: https://github.com/goloobab/readme-generator
+Project Repository:  https://github.com/goloobab/readme-generator
+
+Project Video Demo: https://drive.google.com/file/d/1LDuNwT0Csf_bTKSbuB02vQ4Xnz-3LCnU/view
 
 ## License 
 Please refer to the LICENSE enclosed in the repository
