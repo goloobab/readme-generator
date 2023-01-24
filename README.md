@@ -51,10 +51,8 @@ Acceptance Criteria:
 * Using the inquire package
 * Using of the template literals
 
-
-## Screen Capture
-
-
+## Screen Shot
+![Screenshot 2023-01-24 221523](https://user-images.githubusercontent.com/26630637/214440919-c7eb9cee-f711-45b3-af9e-bc883647c224.png)
 
 ## Links
 Project Repository:  https://github.com/goloobab/readme-generator
