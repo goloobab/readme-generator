@@ -47,7 +47,7 @@ Acceptance Criteria:
 ## Things I learned 
 * Installing of different dependencies
 * How to use the node package manager
-* Exporting mmodules
+* Exporting modules
 * Using the inquire package
 * Using of the template literals
 
