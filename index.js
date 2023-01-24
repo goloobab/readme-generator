@@ -43,7 +43,7 @@ const questions = [{
 {
     type: 'input',
     name: 'test',
-    message: 'What commands do you use to run tests in this the project?'
+    message: 'What command do you use to test this project?'
 },
 {
     type: 'input',
