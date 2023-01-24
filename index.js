@@ -15,7 +15,7 @@ const questions = [{
     type: 'list',
     name: 'license',
     message: 'What kind of license should the project have?',
-    choices: ['APACHE 2.0','CCO', 'GNU v3', 'MIT', 'No License']
+    choices: ['APACHE 2.0', 'CCO', 'GNU v3', 'MIT', 'No License']
 },
 {
     type: 'editor',
@@ -62,8 +62,15 @@ function writeToFile(fileName, data) {
 
 // function to initialize program
 function init() {
-
+    inquirer.prompt(
+        questions
+    ).then(function (answers) {
+        writeToFile('README.md', generateMarkdown(answers))
+    }).catch(function (err) {
+        console.log(err)
+    })
 }
+
 
 // function call to initialize program
 init();
