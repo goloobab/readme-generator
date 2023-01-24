@@ -48,7 +48,7 @@ Acceptance Criteria:
 * Installing of different dependencies
 * How to use the node package manager
 * Exporting modules
-* Using the inquire package
+* Using the inquirer package
 * Using of the template literals
 
 ## Screen Shot
